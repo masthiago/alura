@@ -1,0 +1,3 @@
+[submodule "alura-front-end"]
+	path = alura-front-end
+	url = git@github.com:masthiago/alura-front-end.git
